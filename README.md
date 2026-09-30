@@ -96,10 +96,7 @@ A：在 [Issues](https://github.com/iLink-e/Claudemusic/issues) 里反馈，或�
 
 ## ✦ 致谢
 
-Claudemusic 基于 [MusicFree](https://github.com/maotoumao/MusicFreeDesktop) 二次开发，感谢原作者 [@maotoumao](https://github.com/maotoumao) 的开源工作。
-
-也感谢所有为 MusicFree 生态贡献插件与主题的开发者。
-
+Claudemusic 感谢原作者 [@maotoumao](https://github.com/maotoumao) 的开源工作。
 ---
 
 <div align="center">
