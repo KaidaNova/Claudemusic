@@ -8,9 +8,8 @@
 
 [![Platform](https://img.shields.io/badge/platform-Windows-1a1a1a?style=flat-square)](#)
 [![Release](https://img.shields.io/github/v/release/iLink-e/Claudemusic?style=flat-square&color=D97757)](https://github.com/iLink-e/Claudemusic/releases)
-[![Downloads](https://img.shields.io/github/downloads/iLink-e/Claudemusic/total?style=flat-square&color=1a1a1a)](https://github.com/iLink-e/Claudemusic/releases)
 
-[官网](https://novasix.eu.cc) · [下载](https://github.com/iLink-e/Claudemusic/releases) · [反馈](https://github.com/iLink-e/Claudemusic/issues)
+[官网](https://novasix.eu.cc) · [下载](https://novasix.eu.cc) · [反馈](https://github.com/iLink-e/Claudemusic/issues)
 
 </div>
 
@@ -21,9 +20,6 @@
 Claudemusic 是一款专为桌面打造的现代音乐播放器。
 
 它本身不内置任何音源，所有能力通过插件扩展。界面属于你，内容由你决定。
-
-> 没有广告，没有推荐，没有算法。
-> 只有一个属于你的播放器。
 
 ---
 
