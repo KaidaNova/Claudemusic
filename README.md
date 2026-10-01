@@ -9,7 +9,7 @@
 [![Platform](https://img.shields.io/badge/platform-Windows-1a1a1a?style=flat-square)](#)
 [![Release](https://img.shields.io/github/v/release/iLink-e/Claudemusic?style=flat-square&color=D97757)](https://github.com/iLink-e/Claudemusic/releases)
 
-[官网](https://novasix.eu.cc) · [下载](https://novasix.eu.cc) · [反馈](https://github.com/iLink-e/Claudemusic/issues)
+[官网](https://novasix.eu.cc) · [反馈](https://github.com/iLink-e/Claudemusic/issues)
 
 </div>
 
