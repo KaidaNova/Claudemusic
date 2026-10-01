@@ -43,7 +43,7 @@ Claudemusic 是一款专为桌面打造的现代音乐播放器。
 
 | 平台 | 文件 |
 |---|---|
-| Windows | `Claudemusic-Setup-x.x.x.exe` |
+| Windows | `版本号.zip` |
 
 > macOS 与 Linux 版本正在准备中。
 
